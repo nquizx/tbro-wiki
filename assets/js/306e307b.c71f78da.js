@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunktieubachro=self.webpackChunktieubachro||[]).push([[523],{7183:e=>{e.exports=JSON.parse('{"categoryGeneratedIndex":{"title":"T\xednh n\u0103ng","slug":"/category/features","permalink":"/docs/category/features","sidebar":"featureSidebar","navigation":{"next":{"title":"Random Options","permalink":"/docs/features/random-options/"}}}}')}}]);

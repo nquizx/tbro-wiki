@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktieubachro=self.webpackChunktieubachro||[]).push([[250],{7151:e=>{e.exports=JSON.parse('{"tags":[{"label":"feature","permalink":"/tbro-wiki/docs/tags/feature","count":2}]}')}}]);
