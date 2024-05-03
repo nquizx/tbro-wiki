@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktieubachro=self.webpackChunktieubachro||[]).push([[704],{1157:e=>{e.exports=JSON.parse('{"tags":[{"label":"feature","permalink":"/docs/tags/feature","count":2}]}')}}]);
