@@ -58,10 +58,10 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'TieubachRO',
+      title: 'TieubachRO Wiki',
       logo: {
         alt: 'TieubachRO Logo',
-        src: 'img/logo.svg',
+        src: 'img/dc_logo.png',
       },
       items: [
         {
@@ -71,11 +71,11 @@ const config: Config = {
           label: 'Tính năng',
         },
         { to: '/blog', label: 'Blog', position: 'left' },
-        {
-          href: 'https://github.com/facebook/docusaurus',
-          label: 'GitHub',
-          position: 'right',
-        },
+        // {
+        //   href: 'https://github.com/facebook/docusaurus',
+        //   label: 'GitHub',
+        //   position: 'right',
+        // },
       ],
     },
     footer: {
